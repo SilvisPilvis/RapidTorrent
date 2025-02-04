@@ -14,6 +14,12 @@
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
+# Torrent DB
+
+*.torrent.db
+*.torrent.db-shm
+*.torrent.db-wal
+
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
